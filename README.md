@@ -19,17 +19,17 @@ PayFlex is a high-fidelity, single-page fintech dashboard application designed w
 To get a local copy of this environment running on your machine, follow these steps:
 
 1. **Clone the repository:**
+ git clone [https://github.com/tobyishiwu/payflex.git](https://github.com/tobyishiwu/payflex.git)
+   cd payflex
 
-2. Install fresh project dependencies:
+3. Install fresh project dependencies:
 
-3. npm install
+4. npm install
 Fire up the localized development server:
 
-4. npm run dev -- --force
+5. npm run dev -- --force
 Compile production build assets:
 
-5. npm run build
+6. npm run build
    
-```bash
-   git clone [https://github.com/tobyishiwu/payflex.git](https://github.com/tobyishiwu/payflex.git)
-   cd payflex
+  
